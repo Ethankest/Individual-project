@@ -1,5 +1,5 @@
 # Luminary
-A text-based adventure game.
+A text-based adventure game with pictures that can be clicked on.
 ### UI and Logic Planning
 ![start]()
 ![gameplay]()
