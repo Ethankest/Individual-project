@@ -1,4 +1,4 @@
-# Individual-project
+# Luminary
 ### UI and Logic Planning
 ![start]()
 ![gameplay]()
