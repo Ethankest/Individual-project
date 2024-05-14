@@ -5,7 +5,7 @@ Is a text-based adventure game with pictures that can be clicked on. The story w
 ### Class Diagram
 ![classdiagram]()
 ### Start screen
-![startscreen]()
+![startscreen](https://github.com/Ethankest/Individual-project/blob/main/images/Gameplay.png)
 ### Gameplay
-![gameplay](https://github.com/Ethankest/Individual-project/blob/main/images/Gameplay.png)
+![gameplay]()
 
