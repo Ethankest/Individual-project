@@ -6,6 +6,8 @@ The main story of the game is centered around you waking up inside of a dimly li
 #### Gameplay
 ![gameplay](https://github.com/Ethankest/Individual-project/blob/main/images/ActualGameplay.png)
 #### Ending
-![](https://github.com/Ethankest/Individual-project/blob/main/images/Ending.png)
+![ending](https://github.com/Ethankest/Individual-project/blob/main/images/Ending.png)
 #### Secret Ending
-![](https://github.com/Ethankest/Individual-project/blob/main/images/SecretEnding.png)
+![secretending](https://github.com/Ethankest/Individual-project/blob/main/images/SecretEnding.png)
+### Class Diagram
+![classdiagram](https://github.com/Ethankest/Individual-project/blob/main/images/classdiagram.png)
