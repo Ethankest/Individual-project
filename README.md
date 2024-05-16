@@ -8,4 +8,4 @@ Is a text-based adventure game with pictures that can be clicked on. The story w
 #### Ending
 ![](https://github.com/Ethankest/Individual-project/blob/main/images/Ending.png)
 #### Secret Ending
-![]()
+![](https://github.com/Ethankest/Individual-project/blob/main/images/SecretEnding.png)
