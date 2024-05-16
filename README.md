@@ -6,6 +6,6 @@ Is a text-based adventure game with pictures that can be clicked on. The story w
 #### Gameplay
 ![gameplay](https://github.com/Ethankest/Individual-project/blob/main/images/ActualGameplay.png)
 #### Ending
-![]()
+![](https://github.com/Ethankest/Individual-project/blob/main/images/Ending.png)
 #### Secret Ending
 ![]()
